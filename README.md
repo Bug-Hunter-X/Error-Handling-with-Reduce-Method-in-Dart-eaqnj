@@ -1,0 +1,2 @@
+# Dart Reduce Method Error Handling
+This repository demonstrates a common error encountered when using the `reduce` method in Dart with an empty list. The `reduce` method requires at least one element in the list, otherwise it throws a `StateError`. This example shows how to handle this error gracefully.
